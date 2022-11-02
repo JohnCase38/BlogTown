@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS blogtown_db;
+CREATE DATABASE blogtown_db;

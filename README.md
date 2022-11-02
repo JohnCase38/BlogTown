@@ -1,1 +1,2 @@
-"# JCblog" 
+"# BlogTown" 
+BlogTown is an inclusive chat/forum app for developers to talk about the latest tech news, give updates on projects, advise each other on best practices, and just grow a community around like minded developers.
