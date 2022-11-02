@@ -320,8 +320,6 @@
     min-width: 100vw;
   }
   
-  /* MARGIN/PADDING UTILS */
-  /* Margin - all sides */
   .m-0 {
     margin: 0;
   }
